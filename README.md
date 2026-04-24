@@ -10,5 +10,5 @@ Features:
 - Rank calculation
 - Conditional formatting
 
-Tools Used:
-Microsoft Excel
+ Tools Used:
+ Microsoft Excel
